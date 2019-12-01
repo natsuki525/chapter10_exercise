@@ -1,1 +1,4 @@
-# chapter10_exercise
+# DMM WEBCAMPコンテンツ【課題：レスポンシブ対応させよう】
+HTML/CSSを学ぼうの10章の課題です。
+## 使い方
+html/cssファイルのため、pcのブラウザで実行できます。
